@@ -26,6 +26,7 @@
 
 ### ***Output Screenshot*** : 
 Code:
+
 https://github.com/anikethmehta/LAB7/blob/main/Code1.png
 
 https://github.com/anikethmehta/LAB7/blob/main/Code2.png
@@ -39,3 +40,7 @@ https://github.com/anikethmehta/LAB7/blob/main/Code5.png
 https://github.com/anikethmehta/LAB7/blob/main/Code6.png
 
 https://github.com/anikethmehta/LAB7/blob/main/Code7.png
+
+Output:
+
+https://github.com/anikethmehta/LAB7/blob/main/Output1.png
