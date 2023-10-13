@@ -44,3 +44,5 @@ https://github.com/anikethmehta/LAB7/blob/main/Code7.png
 Output:
 
 https://github.com/anikethmehta/LAB7/blob/main/Output1.png
+
+https://github.com/anikethmehta/LAB7/blob/main/Output2.png
