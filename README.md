@@ -37,3 +37,5 @@ https://github.com/anikethmehta/LAB7/blob/main/Code4.png
 https://github.com/anikethmehta/LAB7/blob/main/Code5.png
 
 https://github.com/anikethmehta/LAB7/blob/main/Code6.png
+
+https://github.com/anikethmehta/LAB7/blob/main/Code7.png
