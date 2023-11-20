@@ -1,4 +1,5 @@
-### ***Title*** : LAB7
+### ***Date*** : 28 September - 5 October 2023 
+### ***Title*** : LAB8
 ### ***Aim*** : Write a class (date), access its functions using class object (today)
 ### ***Algorithm*** : 
 (1) Create a class named date
